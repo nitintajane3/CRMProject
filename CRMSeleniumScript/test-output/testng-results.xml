@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-13T16:03:47Z" name="Suite" finished-at="2023-12-13T16:04:01Z" duration-ms="14043">
+    <groups>
+    </groups>
+    <test started-at="2023-12-13T16:03:47Z" name="Test" finished-at="2023-12-13T16:04:01Z" duration-ms="14043">
+      <class name="com.qa.login.LoginTest">
+        <test-method is-config="true" signature="initialiseBrowser()[pri:0, instance:com.qa.login.LoginTest@51133c06]" started-at="2023-12-13T21:33:48Z" name="initialiseBrowser" finished-at="2023-12-13T21:33:59Z" duration-ms="11686" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialiseBrowser -->
+        <test-method signature="loginTestone(java.lang.String, java.lang.String)[pri:0, instance:com.qa.login.LoginTest@51133c06]" started-at="2023-12-13T21:33:59Z" name="loginTestone" data-provider="getDataExcel" finished-at="2023-12-13T21:34:01Z" duration-ms="1193" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTestone -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.login.LoginTest@51133c06]" started-at="2023-12-13T21:34:01Z" name="tearDown" finished-at="2023-12-13T21:34:01Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.login.LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
