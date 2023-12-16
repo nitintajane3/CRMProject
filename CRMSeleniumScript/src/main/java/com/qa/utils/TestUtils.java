@@ -18,7 +18,7 @@ import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 
-import com.tamplo.qa.testbase.TestBase;
+
 
 public class TestUtils extends com.qa.testbase.TestBase
 {

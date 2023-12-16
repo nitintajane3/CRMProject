@@ -6,7 +6,9 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
-import com.tamplo.qa.testbase.TestBase;
+import com.qa.testbase.TestBase;
+
+
 
 public class HomePage extends TestBase
 {

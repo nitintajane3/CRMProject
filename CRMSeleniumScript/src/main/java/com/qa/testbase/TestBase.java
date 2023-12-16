@@ -15,8 +15,9 @@ import org.openqa.selenium.ie.InternetExplorerDriver;
 
 import org.openqa.selenium.support.events.EventFiringWebDriver;
 
-import com.tamplo.qa.utils.TestUtils;
-import com.tamplo.qa.utils.WebEventListener;
+import com.qa.utils.WebEventListener;
+
+
 
 public class TestBase 
 {
