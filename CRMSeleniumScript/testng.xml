@@ -7,7 +7,7 @@
   <test thread-count="5" name="Test">
     <classes>
       <class name="com.qa.login.LoginTest"/>
-      <class name="com.qa.login.LoginTest"/>
+      <class name="com.qa.register.RegisterUser"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
